@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="weather">
+    <file>icons/weather/png/001-cloudy day.png</file>
+    <file>icons/weather/png/002-sunny.png</file>
+    <file>icons/weather/png/003-sunny.png</file>
+    <file>icons/weather/png/004-thunderstorm.png</file>
+    <file>icons/weather/png/005-cloudy.png</file>
+    <file>icons/weather/png/006-snowy.png</file>
+    <file>icons/weather/png/007-windy.png</file>
+    <file>icons/weather/png/008-snowy.png</file>
+    <file>icons/weather/png/009-rainy.png</file>
+    <file>icons/weather/png/010-night.png</file>
+    <file>icons/weather/png/011-night.png</file>
+    <file>icons/weather/png/012-rainy.png</file>
+    <file>icons/weather/png/013-rainbow.png</file>
+    <file>icons/weather/png/014-thunderstorm.png</file>
+    <file>icons/weather/png/015-rainy.png</file>
+    <file>icons/weather/png/016-sunrise.png</file>
+    <file>icons/weather/png/017-sunset.png</file>
+    <file>icons/weather/png/018-high tide.png</file>
+    <file>icons/weather/png/019-low tide.png</file>
+    <file>icons/weather/png/020-Hailstorm.png</file>
+    <file>icons/weather/png/021-cloudy night.png</file>
+    <file>icons/weather/png/022-humidity.png</file>
+    <file>icons/weather/png/023-moon phase.png</file>
+    <file>icons/weather/png/024-temperature.png</file>
+    <file>icons/weather/png/025-temperature.png</file>
+    <file>icons/weather/png/026-weather alert.png</file>
+    <file>icons/weather/png/027-location.png</file>
+    <file>icons/weather/png/028-wind vane.png</file>
+    <file>icons/weather/png/029-wave.png</file>
+    <file>icons/weather/png/030-weather app.png</file>
+    <file>icons/weather/png/031-weather forecast.png</file>
+    <file>icons/weather/png/032-snowy.png</file>
+    <file>icons/weather/png/033-rainy day.png</file>
+    <file>icons/weather/png/034-sun.png</file>
+    <file>icons/weather/png/035-night.png</file>
+    <file>icons/weather/png/036-night.png</file>
+  </qresource>
+</RCC>
